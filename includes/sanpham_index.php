@@ -11,7 +11,7 @@ while ( $data = mysqli_fetch_array($query_sp)) {
 
 			<div class="col-md-3">
 				<div class="thumbnail">
-					<a href="display.php?id=<?php echo $data["id_sp"]; ?>"><img src="img/sp1.jpg" alt="Sản phẩm 1"></a>
+					<a href="display.php?id=<?php echo $data["id_sp"]; ?>"><img src="img/<?php echo $data["img_sp"]; ?>" alt="Sản phẩm 1"></a>
 					<div class="caption">
 						<center>
 							<a href="display.php?id=<?php echo $data["id_sp"]; ?>"><h4><?php echo $data["ten_sp"]; ?></h4></a>
