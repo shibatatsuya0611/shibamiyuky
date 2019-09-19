@@ -1,0 +1,26 @@
+﻿NOTE: http://GaoSinVN.Tk
+
+- Thêm ảnh cho thành viên và quản lý thành viên
+- Giỏ hàng cho phép mua 1 hoặc nhiều sản phẩm.	
+- Đổi mật khẩu user.
+- Phân trang
+- Kho hàng
+- Comment
+
+
+Thành công: 
+- Giao diện đẹp
+- Tổ chức website chặt chẽ và dễ sử dụng.
+- Sử dụng từ ngữ dễ hiểu.
+- Tương thích với tất cả các trình duyệt web.
+- Đầy đủ chức năng của các tác nhân.
+
+Hạn chế: 
+- Kinh phí thấp.
+- Hạn chế về thời gian.
+- Website chưa có giao dịch mua bán.
+- Bảo mật kém
+
+Cách khắc phục: 
+- Nâng cao bảo mật của website
+- Nâng cấp và bảo trì để website hoàn thiện hơn.
